@@ -16,4 +16,4 @@ user1.age = 20;
 console.log(user1.name);		// 'hayk'
 console.log(user1.yearOfBirth);	// 2000
 console.log(user1.age);			// 20
-console.log(user1);
+console.log(user1);				// ktpi object@
